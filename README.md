@@ -22,7 +22,7 @@ apt update
 apt upgrade -y 
 pkg install bash 
 pkg install git 
-https://github.com/A9-Cyber-Community/A9-Set-Up.git 
+git clone https://github.com/A9-Cyber-Community/A9-Set-Up.git 
 cd A9-Set-Up 
 bash start.sh
 ```
